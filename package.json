@@ -1,6 +1,6 @@
 {
   "name": "privateprofilefixer",
-  "version": "0.3",
+  "version": "0.4",
   "description": "Make private profiles open in the Air/Flash client",
   "main": "index.js",
   "scripts": {
