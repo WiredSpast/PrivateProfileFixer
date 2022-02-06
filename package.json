@@ -1,0 +1,17 @@
+{
+  "name": "privateprofilefixer",
+  "version": "0.3",
+  "description": "Make private profiles open in the Air/Flash client",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node index.js -p 9092"
+  },
+  "keywords": [],
+  "author": "WiredSpast",
+  "license": "ISC",
+  "dependencies": {
+    "gnode-api": "^0.1.3",
+    "node-fetch": "^2.6.1"
+  }
+}
